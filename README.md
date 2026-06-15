@@ -53,7 +53,7 @@ A nossa Prova de Conceito foi desenhada especificamente para o ambiente interati
 ### 📊 Organização Ágil (Kanban)
 Toda a gestão de tarefas, divisão de papéis e evolução prática da Sprint 2 foi coordenada publicamente.
 
-🔗 **Link para o nosso Quadro Kanban:** https://trello.com/invite/b/6a307387829e5784f3bd46a8/ATTI8c2c67868b4185d83a78d23711165580155F450B/sprint-2-pcp
+🔗 **Link para o nosso Quadro Kanban:** (https://trello.com/invite/b/6a307387829e5784f3bd46a8/ATTI8c2c67868b4185d83a78d23711165580155F450B/sprint-2-pcp)
 
 ---
 
