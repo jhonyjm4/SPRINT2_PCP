@@ -60,4 +60,4 @@ Toda a gestão de tarefas, divisão de papéis e evolução prática da Sprint 2
 ### 🎥 Vídeo Pitch (YouTube)
 Vídeo mostrando e aplicando todo o processo do projeto e sua evolução.
 
-🔗 **Link para o nosso vídeo pitch no YouTube:**
+🔗 **Link para o nosso vídeo pitch no YouTube:** https://youtu.be/Cpw6-TVzYV8?si=2mSaJotzl0FEBUu-
